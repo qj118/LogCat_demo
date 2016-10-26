@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LogCat</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="action_about">About</string>
+    <string name="about_content">Author: Demon Qu \nVerion: Ver 1.0.2 \nContact: qj1180405@163.com</string>
+    <string name="about_confirm">OK</string>
+
+</resources>
